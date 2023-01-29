@@ -18,6 +18,6 @@ Eu acho essa biblioteca muito boa para auxiliar na criação de slides, também 
 TailwindCSS é o tipo de coisa que não se aprende da noite pro dia, principalmente quem teve mais contato com o bootstrap ou MaterialUI, por exemplo. Essa biblioteca, para mim, também está na lista de essenciais, uma vez que oferece uma gama de possibilidades quase que infinitas em relação a estilização e composição de interfaces. Eu de fato sou fã, utilizo há alguns anos e eu poderia escrever um livro citando vantagens de utilizá-la. É minha biblioteca preferida haha.
 
 * FRAMER-MOTION\
-Eu curto bastante essa biblioteca, uma vez que ela facilita a criação de transições e animações na interface. Com ela conseguimos, por exemplo, tornar algumas aparições mais suaves, como foi feito no `index`.\
+Eu curto bastante essa biblioteca, uma vez que ela facilita a criação de transições e animações na interface. Com ela conseguimos, por exemplo, tornar algumas aparições mais suaves, como foi feito no `index`.
 
 As outras bibliotecas presentes no projeto são dependências ou complementos das citadas acima.
