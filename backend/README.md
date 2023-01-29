@@ -1,5 +1,8 @@
 # Back-end
 Uma coisa interessante nesta etapa é a utilização de um CSV como um banco de dados, por assim dizer. É interessante manipular arquivos e criar toda a estrutura de leitura e gravação.
+## Coleção no Insomnia
+Para ter acesso aos endpoints presentes nesta API, importe o arquivo `./Insomnia Project.json` no seu Insomnia ou Postman.
+Nele também contém a documentação da API.
 
 ## Ausência do Docker
 Já tenho um bom tempo sem utilizar o Docker na minha máquina, quando tentei abrí-lo, o mesmo deu erro na inicialização do daemon. Tentei resolver nos últimos dias mas infelizmente não consegui.
